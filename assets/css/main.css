@@ -2608,13 +2608,14 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/keyboard.jpg");
+		background-image: url("../../images/time.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
+		background-position: center bottom;
 		content: '';
 		display: block;
-		height: 15em;
+		height: 25em;
 		width: 100%;
 	}
 
